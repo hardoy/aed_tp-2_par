@@ -1,0 +1,3 @@
+Ingrese un número entero: 
+
+El número ingresado es impar.
